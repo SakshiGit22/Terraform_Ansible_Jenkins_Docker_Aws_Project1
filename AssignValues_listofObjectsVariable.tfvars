@@ -1,0 +1,1 @@
+subnet_cidr =[{cidr_block="10.0.1.1/16",name="subnet-prod"} ,{cidr_block="10.0.2.1/16" , name="subnet-dev"}]
